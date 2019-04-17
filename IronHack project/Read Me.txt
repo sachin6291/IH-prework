@@ -1,0 +1,12 @@
+Hola Víctor,
+Perdón por la tardanza,
+el CSS3 no lo entiendo y no es por falta de echar les horas,
+el JavaScript mejor aunque sigo sin entender algunas cosas como:
+
+Por que esto funciona: var rover = { dir: 'N' };
+y esto no : var rover = 'N';
+después de haber hecho los debidos cambios en el código y por que la primera linea de Array travel (para travel log) me da algo raro pero los seguidos me dan bien otra vez siento haberme retazado, pero quería completar las tareas
+
+Gracias, 
+Sachin Tekchandani 
+sachin6291@gmail.com
